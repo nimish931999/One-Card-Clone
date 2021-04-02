@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/nimish931999/One-Card-Clone.git/static/css/main.1f9f3ea4.chunk.css",
+    "main.js": "/nimish931999/One-Card-Clone.git/static/js/main.b35f90bd.chunk.js",
+    "main.js.map": "/nimish931999/One-Card-Clone.git/static/js/main.b35f90bd.chunk.js.map",
+    "runtime-main.js": "/nimish931999/One-Card-Clone.git/static/js/runtime-main.077ffbdd.js",
+    "runtime-main.js.map": "/nimish931999/One-Card-Clone.git/static/js/runtime-main.077ffbdd.js.map",
+    "static/css/2.ebb298d4.chunk.css": "/nimish931999/One-Card-Clone.git/static/css/2.ebb298d4.chunk.css",
+    "static/js/2.dda228bb.chunk.js": "/nimish931999/One-Card-Clone.git/static/js/2.dda228bb.chunk.js",
+    "static/js/2.dda228bb.chunk.js.map": "/nimish931999/One-Card-Clone.git/static/js/2.dda228bb.chunk.js.map",
+    "static/js/3.2413958d.chunk.js": "/nimish931999/One-Card-Clone.git/static/js/3.2413958d.chunk.js",
+    "static/js/3.2413958d.chunk.js.map": "/nimish931999/One-Card-Clone.git/static/js/3.2413958d.chunk.js.map",
+    "index.html": "/nimish931999/One-Card-Clone.git/index.html",
+    "static/css/2.ebb298d4.chunk.css.map": "/nimish931999/One-Card-Clone.git/static/css/2.ebb298d4.chunk.css.map",
+    "static/css/main.1f9f3ea4.chunk.css.map": "/nimish931999/One-Card-Clone.git/static/css/main.1f9f3ea4.chunk.css.map",
+    "static/js/2.dda228bb.chunk.js.LICENSE.txt": "/nimish931999/One-Card-Clone.git/static/js/2.dda228bb.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/nimish931999/One-Card-Clone.git/static/media/Manrope-VariableFont_wght.fca742de.ttf",
+    "static/media/logo.6ce24c58.svg": "/nimish931999/One-Card-Clone.git/static/media/logo.6ce24c58.svg",
+    "static/media/manrope.css": "/nimish931999/One-Card-Clone.git/static/media/manrope-thin.64041bf7.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.077ffbdd.js",
+    "static/css/2.ebb298d4.chunk.css",
+    "static/js/2.dda228bb.chunk.js",
+    "static/css/main.1f9f3ea4.chunk.css",
+    "static/js/main.b35f90bd.chunk.js"
+  ]
+}
